@@ -10,7 +10,7 @@ import { WebSocket } from "ws";
 import {deflate} from "pako"; 
 
 
-const romName: string = "pokemoncrystal.gbc";
+const romName: string = "Garfield Labyrinth.gb";
 
 const PORT = 24897;
 const WIDTH = 160, HEIGHT = 144; // gameboy resolution
