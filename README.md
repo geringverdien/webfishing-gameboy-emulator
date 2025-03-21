@@ -5,7 +5,7 @@ if you would like to show support for developing this fun project check out [my 
 
 # how to use
 #### Prerequisites to be able to follow this guide (only need to be done once):
-* Node.js and Yarn are installed on your pc, any steps including yarn can also be done with npm though
+* Node.js  v23.6.0 or higher and Yarn are installed on your pc, any steps including yarn can also be done with npm though
 * My mod [FinapseX](https://thunderstore.io/c/webfishing/p/TeamFishnet/FinapseX/) is installed, the "websocket" setting was enabled in the "mods" menu and the game was restarted to make the setting change apply
 * The [vscode extension](https://github.com/geringverdien/TeamFishnet/raw/refs/heads/main/Finapse%20X/Finapse%20Xecutor/finapse-xecute/finapse-xecute-0.0.1.vsix) for Finapse was installed to run the .gd file from inside vsc
 * This repository was cloned to a local directory so that updates to the code can be synced easily
