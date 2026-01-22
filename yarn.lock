@@ -524,7 +524,6 @@ __metadata:
     pako: "npm:^2.1.0"
     path: "npm:^0.12.7"
     pngjs: "npm:^7.0.0"
-    serverboy: "npm:^0.0.7"
     ts-node: "npm:^10.9.2"
     typescript: "npm:^5.7.3"
     ws: "npm:^8.18.0"
@@ -541,8 +540,8 @@ __metadata:
   linkType: hard
 
 "glob@npm:^10.2.2, glob@npm:^10.3.10, glob@npm:^10.3.7":
-  version: 10.4.5
-  resolution: "glob@npm:10.4.5"
+  version: 10.5.0
+  resolution: "glob@npm:10.5.0"
   dependencies:
     foreground-child: "npm:^3.1.0"
     jackspeak: "npm:^3.1.2"
@@ -552,7 +551,7 @@ __metadata:
     path-scurry: "npm:^1.11.1"
   bin:
     glob: dist/esm/bin.mjs
-  checksum: 10c0/19a9759ea77b8e3ca0a43c2f07ecddc2ad46216b786bb8f993c445aee80d345925a21e5280c7b7c6c59e860a0154b84e4b2b60321fea92cd3c56b4a7489f160e
+  checksum: 10c0/100705eddbde6323e7b35e1d1ac28bcb58322095bd8e63a7d0bef1a2cdafe0d0f7922a981b2b48369a4f8c1b077be5c171804534c3509dfe950dde15fbe6d828
   languageName: node
   linkType: hard
 
@@ -1072,13 +1071,6 @@ __metadata:
   bin:
     semver: bin/semver.js
   checksum: 10c0/fd603a6fb9c399c6054015433051bdbe7b99a940a8fb44b85c2b524c4004b023d7928d47cb22154f8d054ea7ee8597f586605e05b52047f048278e4ac56ae958
-  languageName: node
-  linkType: hard
-
-"serverboy@npm:^0.0.7":
-  version: 0.0.7
-  resolution: "serverboy@npm:0.0.7"
-  checksum: 10c0/dbbef54cd9ee209503464fae3700a57c7d32b7d2d9696b5650a586fb2c1a3b1b9c9d6dca8f23d5571dfff256db94b6d56b1214343084850ea0d84fcd237027b9
   languageName: node
   linkType: hard
 
